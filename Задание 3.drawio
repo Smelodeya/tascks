@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T10:18:07.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="LtlwpEDbqlTu8oz1q9Cz" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T10:24:59.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="KhJS2O3G53yOPrUXt4t8" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="gjajxChaPbByj-a_MBBo">
-    <mxGraphModel dx="2228" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1258" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="5" y="10.5" width="10" height="5" as="geometry" />
         </mxCell>
         <mxCell id="Evka37wHVcQ0AsjKDG4v-22" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Новинки&lt;/font&gt; &lt;font style=&quot;font-size: 9px;&quot;&gt;меню&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="44" y="119" width="130" height="21" as="geometry" />
+          <mxGeometry x="44" y="120" width="130" height="21" as="geometry" />
         </mxCell>
         <mxCell id="Evka37wHVcQ0AsjKDG4v-23" value="Фото" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="48" y="141" width="38" height="55" as="geometry" />
@@ -482,7 +482,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yrp1kMt6h_iVN9C6grwE-69" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Перейти в карточку блюда&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="61" y="273" width="110" height="30" as="geometry" />
+          <mxGeometry x="58" y="273" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yrp1kMt6h_iVN9C6grwE-98" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yrp1kMt6h_iVN9C6grwE-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -495,12 +495,6 @@
         </mxCell>
         <mxCell id="yrp1kMt6h_iVN9C6grwE-101" value="&lt;font color=&quot;#ffffff&quot;&gt;N&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="414" y="221.5" width="15" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="yrp1kMt6h_iVN9C6grwE-108" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="370" as="sourcePoint" />
-            <mxPoint x="350" y="370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yrp1kMt6h_iVN9C6grwE-111" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#B3B3B3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -854,7 +848,7 @@
           <mxGeometry x="8.75" y="46" width="6" height="6" as="geometry" />
         </mxCell>
         <mxCell id="yrp1kMt6h_iVN9C6grwE-425" value="&lt;div style=&quot;font-size: 8px;&quot; align=&quot;left&quot;&gt;&lt;font color=&quot;#808080&quot; style=&quot;font-size: 6px;&quot;&gt;Вернуться к оформлению заказа&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yrp1kMt6h_iVN9C6grwE-393">
-          <mxGeometry x="14.75" y="41" width="158" height="9.5" as="geometry" />
+          <mxGeometry x="14.75" y="43" width="115.25" height="9.5" as="geometry" />
         </mxCell>
         <mxCell id="yrp1kMt6h_iVN9C6grwE-426" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#808080;" vertex="1" parent="yrp1kMt6h_iVN9C6grwE-393">
           <mxGeometry x="5" y="58" width="130" height="62" as="geometry" />
